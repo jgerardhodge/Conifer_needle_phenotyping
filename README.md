@@ -1,2 +1,2 @@
 # Conifer_needle_phenotyping
- Contains script developed for B. Hammond for measuring conifer needles.
+ Contains script developed for W. Hammond for measuring conifer needles.
